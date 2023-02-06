@@ -1,4 +1,4 @@
-
+module github.com/Meshmov/Istio_renobot_issue
 go 1.19
 
 require istio.io/istio v0.0.0-20221208194603-fc52de67ee0e
