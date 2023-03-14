@@ -1,4 +1,2 @@
-istio.io/istio v0.0.0-20221208194603-fc52de67ee0e 
-istio.io/istio v0.0.0-20221208194603-fc52de67ee0e/go.mod 
-istio.io/pkg v0.0.0-20230119194614-e877df450e1b 
-istio.io/pkg v0.0.0-20230119194614-e877df450e1b/go.mod 
+istio.io/istio v0.0.0-20230314171432-59697fb743f0/go.mod h1:tfN6idzPwp+GXKTTmOhZ/W8xNPyxENcysmBcuDdfXV8=
+istio.io/pkg v0.0.0-20230302202707-0023da60c4c9/go.mod h1:Zg0jJwKNfGnlcyk6A30vXI5O+HkHN+VQoEX2T3QOK/s=
